@@ -141,5 +141,18 @@ box = [
     {'service': 'S', 'args':{'endpoint': 'route', 'routeid': '4007272' , 'label': 'Barry\'s Corner Shuttle Route'}, 'tags':["BARRY'S",'BARRY', 'CORNER', 'SHUTTLE', 'ROUTE']},
     {'service': 'S', 'args':{'endpoint': 'route', 'routeid': '4007610' , 'label': 'Quad Stadium Express Shuttle Route'}, 'tags':['QUAD', 'STADIUM', 'EXPRESS', 'SHUTTLE', 'ROUTE']},
     {'service': 'S', 'args':{'endpoint': 'route', 'routeid': '4007650' , 'label': 'Allston Campus Express Shuttle Route'}, 'tags':['ALLSTON', 'CAMPUS', 'EXPRESS', 'SHUTTLE', 'ROUTE']},
-    {'service': 'W', 'args':{}, 'tags':['WEATHER']}
+    {'service': 'W', 'args':{}, 'tags':['WEATHER']},
+    {'service': 'H', 'args':{'sign': 'aries'}, 'tags':['HOROSCOPE', 'ARIES']},
+    {'service': 'H', 'args':{'sign': 'taurus'}, 'tags':['HOROSCOPE', 'TAURUS']},
+    {'service': 'H', 'args':{'sign': 'gemini'}, 'tags':['HOROSCOPE', 'GEMINI']},
+    {'service': 'H', 'args':{'sign': 'cancer'}, 'tags':['HOROSCOPE', 'CANCER']},
+    {'service': 'H', 'args':{'sign': 'leo'}, 'tags':['HOROSCOPE', 'LEO']},
+    {'service': 'H', 'args':{'sign': 'virgo'}, 'tags':['HOROSCOPE', 'VIRGO']},
+    {'service': 'H', 'args':{'sign': 'libra'}, 'tags':['HOROSCOPE', 'LIBRA']},
+    {'service': 'H', 'args':{'sign': 'scorpio'}, 'tags':['HOROSCOPE', 'SCORPIO']},
+    {'service': 'H', 'args':{'sign': 'sagittarius'}, 'tags':['HOROSCOPE', 'SAGITTARIUS']},
+    {'service': 'H', 'args':{'sign': 'capricorn'}, 'tags':['HOROSCOPE', 'CAPRICORN']},
+    {'service': 'H', 'args':{'sign': 'aquarius'}, 'tags':['HOROSCOPE', 'AQUARIUS']},
+    {'service': 'H', 'args':{'sign': 'pisces'}, 'tags':['HOROSCOPE', 'PISCES']},
+
 ]
