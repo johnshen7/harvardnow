@@ -141,5 +141,6 @@ box = [
     {'service': 'S', 'args':{'endpoint': 'route', 'routeid': '4007272' , 'label': 'Barry\'s Corner Shuttle Route'}, 'tags':["BARRY'S",'BARRY', 'CORNER', 'SHUTTLE', 'ROUTE']},
     {'service': 'S', 'args':{'endpoint': 'route', 'routeid': '4007610' , 'label': 'Quad Stadium Express Shuttle Route'}, 'tags':['QUAD', 'STADIUM', 'EXPRESS', 'SHUTTLE', 'ROUTE']},
     {'service': 'S', 'args':{'endpoint': 'route', 'routeid': '4007650' , 'label': 'Allston Campus Express Shuttle Route'}, 'tags':['ALLSTON', 'CAMPUS', 'EXPRESS', 'SHUTTLE', 'ROUTE']},
-    {'service': 'W', 'args':{}, 'tags':['WEATHER']}
+    {'service': 'W', 'args':{}, 'tags':['WEATHER']},
+    {'service': 'puzzle', 'args':{}, 'tags':['PUZZLE']}
 ]
