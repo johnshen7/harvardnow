@@ -1,0 +1,61 @@
+#menu-bar {
+    background: #A51C30;
+    padding: 0;
+}
+#menu-bar ul.nice-menu .menuparent a:before {
+    background-position: 0 -566px;
+    /* White Arrow */
+}
+#menu-bar ul.nice-menu ul,
+#menu-bar ul.nice-menu a.active,
+#menu-bar ul.nice-menu a:hover,
+#menu-bar ul.nice-menu .menuparent.over > a,
+#menu-bar ul.nice-menu .menuparent a:hover,
+#menu-bar ul.nice-menu .menuparent a.active {
+    background-color: #7B272B;
+}
+#menu-bar ul.nice-menu a {
+    color: #FFF;
+    font-size: 19px;
+}
+ul.nice-menu ul {
+    top: 2.75em !important;
+}
+#menu-bar ul.nice-menu li {
+    margin-right: 15px;
+}
+#menu-bar ul.nice-menu .menuparent ul li a.active,
+#menu-bar ul.nice-menu .menuparent ul li a {
+    color: #FFF;
+}
+#menu-bar ul.nice-menu .menuparent ul li a:hover {
+    color: #FFF;
+    text-decoration: underline !important;
+}
+#header {
+    background: #F3F3F1;
+}
+.region-header-third ul.nice-menu a {
+    color: #A51C30;
+    font-size: 12px;
+}
+.sidebar .block,
+.front #content-column .block,
+#content-column .block.block-boxes-os_boxes_columns .block,
+.node-person .block-inner,
+.comment-wrapper {
+    border-top: 3px solid #78777B;
+}
+.cke_editable h2,
+.cke_editable h3,
+.cke_editable h4,
+#content-column .field-name-body h2,
+h2.block-title {
+    color: #A51C30;
+}
+.section-nav .menu-depth-1 > a {
+    background: #A51C30 !important;
+}
+.section-nav .expanded.menu-depth-2 > a {
+    background-color: #D16103;
+}

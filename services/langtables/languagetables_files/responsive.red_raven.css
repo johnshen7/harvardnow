@@ -1,0 +1,87 @@
+@media (max-width: 1008px) {
+
+.region-header-third #block-os-secondary-menu.opened, 
+.region-header-third .os-custom-menu.opened {
+background-color: #FFF;
+}
+
+.region-header-third ul.nice-menu a {
+color: #FFF !important;
+}
+
+
+.region-header-third .os-custom-menu li, .region-header-third #block-os-secondary-menu li {
+border-top: 1px solid #f4f4f4 !important;
+
+}
+
+.region-header-third #block-os-secondary-menu.opened, 
+.region-header-third .os-custom-menu.opened {
+background-color: #A51C30;
+}
+
+
+#header {
+border-bottom: none;
+}
+
+#menu-bar {
+padding: 0 15px !important;
+background: #A51C30;
+border-bottom: none;
+}
+
+
+
+#menu-bar ul.nice-menu li {
+background-color: #A51C30 !important;
+color:#FFF !important;
+}
+
+#menu-bar #block-os-primary-menu a {
+color: #FFF !important;
+}
+
+#menu-bar #block-os-primary-menu li {
+border-bottom: 1px solid #f4f4f4!important;
+border-top: none!important;
+}
+
+.link-count-mobi-main a {
+background-position: 0 -493px;
+}
+
+
+.link-count-mobi-util a {
+background-position: -52px -500px;
+}
+
+.link-count-mobi-util a {
+    background-color: #A51C30;
+}
+
+
+.link-count-mobi-main a {
+    background-color:#A51C30;
+}
+
+.link-count-mobi-main a {
+background-position: 0 -493px;
+}
+
+.link-count-mobi-search a {
+    background-color: #436CBD;
+}
+
+.mobi-util a {
+    background: #A51C30;
+
+}
+
+
+.mobile-buttons a {
+color: #215990 !important;
+
+
+}
+
